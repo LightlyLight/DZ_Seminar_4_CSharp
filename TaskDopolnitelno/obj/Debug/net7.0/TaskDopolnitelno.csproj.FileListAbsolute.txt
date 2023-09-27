@@ -1,0 +1,4 @@
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_14_09_C_Sharp_SEM5\TaskDopolnitelno\obj\Debug\net7.0\TaskDopolnitelno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_14_09_C_Sharp_SEM5\TaskDopolnitelno\obj\Debug\net7.0\TaskDopolnitelno.AssemblyInfoInputs.cache
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_14_09_C_Sharp_SEM5\TaskDopolnitelno\obj\Debug\net7.0\TaskDopolnitelno.AssemblyInfo.cs
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_14_09_C_Sharp_SEM5\TaskDopolnitelno\obj\Debug\net7.0\TaskDopolnitelno.csproj.CoreCompileInputs.cache
