@@ -1,0 +1,14 @@
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_14_09_C_Sharp_SEM5\Task38\obj\Debug\net7.0\Task38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_14_09_C_Sharp_SEM5\Task38\obj\Debug\net7.0\Task38.AssemblyInfoInputs.cache
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_14_09_C_Sharp_SEM5\Task38\obj\Debug\net7.0\Task38.AssemblyInfo.cs
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_14_09_C_Sharp_SEM5\Task38\obj\Debug\net7.0\Task38.csproj.CoreCompileInputs.cache
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_14_09_C_Sharp_SEM5\Task38\bin\Debug\net7.0\Task38.exe
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_14_09_C_Sharp_SEM5\Task38\bin\Debug\net7.0\Task38.deps.json
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_14_09_C_Sharp_SEM5\Task38\bin\Debug\net7.0\Task38.runtimeconfig.json
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_14_09_C_Sharp_SEM5\Task38\bin\Debug\net7.0\Task38.dll
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_14_09_C_Sharp_SEM5\Task38\bin\Debug\net7.0\Task38.pdb
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_14_09_C_Sharp_SEM5\Task38\obj\Debug\net7.0\Task38.dll
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_14_09_C_Sharp_SEM5\Task38\obj\Debug\net7.0\refint\Task38.dll
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_14_09_C_Sharp_SEM5\Task38\obj\Debug\net7.0\Task38.pdb
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_14_09_C_Sharp_SEM5\Task38\obj\Debug\net7.0\Task38.genruntimeconfig.cache
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_14_09_C_Sharp_SEM5\Task38\obj\Debug\net7.0\ref\Task38.dll
